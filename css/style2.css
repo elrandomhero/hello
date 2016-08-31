@@ -6,7 +6,7 @@ body {
   box-sizing: border-box;
   color: #333;
   overflow: auto;
-  background: url("/space.jpg");
+  background: url("/hello/space.jpg");
   background-size: cover;
 }
 
