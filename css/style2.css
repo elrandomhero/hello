@@ -4,7 +4,7 @@ body {
   line-height: 2em;
   padding: 12px;
   box-sizing: border-box;
-  color: #333;
+  color: #0000;
   overflow: auto;
   background: url("/hello/space.jpg");
   background-size: cover;
@@ -23,7 +23,7 @@ body, html {
 
 a {
   text-decoration: none;
-  color: #333;
+  color: #ffffff;
   border-bottom: 3px solid #0068FF;
 }
 
